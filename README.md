@@ -2,7 +2,8 @@
 
 Comprehensive Telecom Analytics: Customer Insights, Retention, and Diversity:
 ____________________________________________________________________________________________________
-Project Overview
+Project Overview:
+______________________________________________________________________________________________________
 This project is a comprehensive analysis and visualization initiative developed as part of the PwC Forage Power BI job simulation. The project aims to provide deep insights into customer behavior, improve retention strategies, and enhance diversity and inclusion efforts for a leading telecom company.
 
 Key Dashboards:
@@ -28,6 +29,7 @@ Technologies Used:
 _____________________________________________________________________________________________________________________
 Power BI: For interactive data visualization and dashboard creation.
 Excel: For initial data analysis and preparation.
+
 Key Insights and Impact:
 _____________________________________________________________________________________________________________________
 Customer Insights: Enhanced understanding of customer behavior and satisfaction.
